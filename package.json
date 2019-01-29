@@ -1,0 +1,23 @@
+{
+  "name": "Test-Driven-Katas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha wrap.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CelineChole/Test-Driven-Katas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CelineChole/Test-Driven-Katas/issues"
+  },
+  "homepage": "https://github.com/CelineChole/Test-Driven-Katas#readme",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
